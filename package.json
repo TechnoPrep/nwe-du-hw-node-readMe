@@ -1,0 +1,29 @@
+{
+  "name": "nwe-du-hw-node-readme",
+  "version": "1.0.0",
+  "description": "This is for a automated ReadME.md script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnoPrep/nwe-du-hw-node-readMe.git"
+  },
+  "keywords": [
+    "readme",
+    "automated",
+    "node",
+    "node.js",
+    "template-literal"
+  ],
+  "author": "Nathaniel Ehrlich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TechnoPrep/nwe-du-hw-node-readMe/issues"
+  },
+  "homepage": "https://github.com/TechnoPrep/nwe-du-hw-node-readMe#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
