@@ -37,7 +37,7 @@ let generateReadMe = (response) => {
   ${credits}
 
   ## License
-  ${license}
+  ### ${license}
 
   ${conditions.text}
 

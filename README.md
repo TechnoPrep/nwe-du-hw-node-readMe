@@ -29,7 +29,7 @@
   No Credits Applicable
 
   ## License
-  MIT License
+  ### MIT License
 
   Copyright (c) 2021 Nathaniel Ehrlich
 
