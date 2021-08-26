@@ -22,6 +22,8 @@
   ---
   ## Usage
   This application is intended to be used for future projects so that I can easily build a README.md Template.
+
+  [![YouTube How to Video](https://github.com/TechnoPrep/nwe-du-hw-node-readMe/blob/main/img/thumbnail.png)](https://youtu.be/NxEUVebHnT0)
             
   ---
   ## Credits
