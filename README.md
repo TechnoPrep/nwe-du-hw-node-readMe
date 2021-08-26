@@ -19,17 +19,13 @@
   ## Installation
   1. Install Node.js https://nodejs.org/dist/v16.8.0/node-v16.8.0-x64.msi 2. Clone the data from this git repository 3. Install NPM https://docs.npmjs.com/cli/v6/configuring-npm/install 4. Navigate to the git repo using your preferred CommandLine Application (Recommended GitBash or Inline Terminal within VSCode) 5. run 'npm i inquirer' 6. run 'node index.js'
   
-  ---
   ## Usage
   This application is intended to be used for future projects so that I can easily build a README.md Template.
 
   [![YouTube How to Video](https://github.com/TechnoPrep/nwe-du-hw-node-readMe/blob/main/img/thumbnail.png)](https://youtu.be/NxEUVebHnT0)
             
-  ---
   ## Credits
   No Credits Applicable
-
-  ---
 
   ## License
   MIT License
@@ -41,8 +37,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
       
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  
-  ---
 
   ## Features
   This application allows you to choose any of the current licenses avaiable on GitHub and applies the License Statement as well as Badge to the header of the README.md. Allows you to enter your Name to be applied to the License if applicable.
