@@ -30,22 +30,16 @@ let generateReadMe = (response) => {
   ## Installation
   ${install}
   
-  ---
   ## Usage
   ${usage}
             
-  ---
   ## Credits
   ${credits}
-
-  ---
 
   ## License
   ${license}
 
   ${conditions.text}
-  
-  ---
 
   ## Features
   ${features}
